@@ -14,8 +14,6 @@
   ],
   "bookmarkedBy": [],
   "projectId": [],
-  "createdAt": [],
-  "updatedAt": [],
   "levelOfSharing": 0,
   "sharedTo": [],
   "name": "Tabula Muris Senis",
@@ -32,6 +30,4 @@
   "__v": 0,
   "isDeleted": false,
   "repositoryName": "Registry of Open Data on AWS",
-  "isShared": false,
-  "isLinked": false
 }
